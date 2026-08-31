@@ -1,0 +1,18 @@
+# Java compiled files
+*.class
+
+# VS Code / Java temporary files
+tempCodeRunnerFile.java
+
+# Old Java Course Git backup
+.git-backup/
+
+# macOS files
+.DS_Store
+__MACOSX/
+
+# VS Code settings
+.vscode/
+
+# Personal documents
+Yash_Resume.pdf
